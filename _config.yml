@@ -20,10 +20,9 @@ texture:
   showNav: true
   showPicker: false
   navigation:
-    link:
-      title: "Colophon"
-      url: "https://stevenbuehler.github.io/colophon"
-
+    - title: "Colophon"
+      url: "/colophon"
+  disqus_shortname: steven-w-buehler
   # generate social links in footer
   social_links:
     twitter: alive_awakened
@@ -40,7 +39,7 @@ texture:
 # - colophon.md
 
 # Build settings
-# theme: texture
+theme: texture
 
 plugins:
   - jekyll-seo-tag
