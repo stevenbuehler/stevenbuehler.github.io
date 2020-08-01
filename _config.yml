@@ -2,3 +2,13 @@ remote_theme: thelehhman/texture
 title: Steven W. Buehler
 description: Late-40-something (going on 12). Data & Theme Park Addict. Ravenclaw. My patronus is a St. Bernard.
 logo: https://ntnloq.bn.files.1drv.com/y4mzXJRksYPKB96D2b5L2d-5UBSzqYFOSQ1yO0Ba-6yRD3P-KoNuBLRfV83y1vAYdVKL3fKe8ddJFI1SQ9HnH930i9zHPWG2NYsBBVXnwQBqtco54zfTKMy1vVk6JmsU-8GEKreFKVBk-sXcwPErV5jMriFKFjy9ge0IJ7wBjbFO_uZ6tvtgVIBdl_oDN3zhTfVwUJ1fVYGUTEKyr1H0htISg?width=256&height=256&cropmode=none
+
+texture:
+  title: Steven Watson Buehler
+  tagline: Late-40-something (going on 12). Data & Theme Park Addict. Ravenclaw. My patronus is a St. Bernard.
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    twitter: alive_awakened
+    github:  aliveawakened
+    linkedIn: in/stevenwatsonb # format: locale/username
