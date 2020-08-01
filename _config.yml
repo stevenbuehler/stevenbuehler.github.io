@@ -19,6 +19,11 @@ texture:
   style: blue
   showNav: true
   showPicker: false
+  navigation:
+    link:
+      title: "Colophon"
+      url: "/colophon"
+
 
   # generate social links in footer
   social_links:
@@ -32,8 +37,8 @@ texture:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-header_pages:
- - colophon.md
+#header_pages:
+# - colophon.md
 
 # Build settings
 # theme: texture
