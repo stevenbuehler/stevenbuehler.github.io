@@ -4,6 +4,10 @@ title: Colophon
 date: 2020-08-01
 ---
 
+# Colophon
+
+<img src="/images/colophon.png" style="text-align: center" />
+
 I was inspired by [John Saddington's](https://john.do/colophon) and a post from [Stephen Wolfram](https://writings.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/) to create this "Colophon" for this site and also for my life&mdash;the tools and systems that I use in my everyday life.
 
 A colophon in the book world is a section usually in the forematter that describes how the book was created, printed, and published. You may find them often your high school or college yearbooks (my [college _alma mater_](https://www.vanguard.edu) was small enough at the time to publish a yearbook every academic year).  Usually included are details about the typefaces used, the kind of paper it was printed on, how many pages and copies were produced, how it's bound. 
