@@ -58,6 +58,24 @@ I keep a [memobird](https://www.mymemobird.com) wireless thermal printer on my d
 
 I use [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) and [AutoApps](https://play.google.com/store/apps/details?id=com.joaomgcd.autoappshub) on my Pixel to do a lot of custom stuff too.
 
+Desktop apps:
+
+- [Visual Studio Code](https://code.visualstudio.com/) for text, code, and blog editing.
+
+- [Google Chrome](https://chrome.google.com) for web browsing, although I like [Microsoft Edge](https://edge.microsoft.com) better but have to keep things synced with my Pixel.
+
+- [Inkscape](https://inkscape.org) for vector graphics.
+
+- [Acoustica Mixcraft Pro Studio](https://acoustica.com/) for music creation.
+
+- [VcXsrv](https://sourceforge.net/projects/vcxsrv/) as an X-Server when I'm remotely accessing the Raspberry Pi or my desktop's <abbrev title="Windows Services for Linux">WSL</a>2 instance.
+
+- [Gnome Evolution](https://wiki.gnome.org/Apps/Evolution) to connect to Gmail/Contacts/Calendar when I need to organize/clean stuff up.
+
+- [Wolfram Mathematica](https://www.wolframresearch.com) on the Raspberry Pi for fancy charts and analyses, when I'm not using Google Sheets or Excel.
+
+- [OneNote](https://www.onenote.com) for most of my notetaking.
+
 ## Analog Tools
 
 As I get older I find there is still a place for analog (as in paper and pen or pencil) tools, because it is often much easier to quickly grab a sheet of paper or a notebook than to wake up a machine and stylus. It's also been repeatedly proven that things that are _written down by hand_ are better retained. Even then, everything that starts on a piece of paper is ultimately scanned and OCR'd for future searchability.
