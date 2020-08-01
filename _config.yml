@@ -4,7 +4,7 @@ email: alive.awakened@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Late-40-something (going on 12). Data, chart, and theme park addict. Ravenclaw. My patronus is a St. Bernard.
 show_excerpts: true # set to true to show excerpts on the homepage
-baseurl: 
+baseurl:
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
@@ -22,13 +22,12 @@ texture:
   navigation:
     link:
       title: "Colophon"
-      url: "/colophon"
-
+      url: "https://stevenbuehler.github.io/colophon"
 
   # generate social links in footer
   social_links:
     twitter: alive_awakened
-    github:  alive_awakened
+    github: alive_awakened
     linkedIn: in/stevenwatsonb
     rss: rss
     twitch: alive_awakened
