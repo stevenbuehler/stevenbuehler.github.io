@@ -20,6 +20,8 @@ texture:
   showNav: true
   showPicker: false
   navigation:
+    - title: "Home"
+      url: "/"
     - title: "Colophon"
       url: "/colophon"
   disqus_shortname: steven-w-buehler
