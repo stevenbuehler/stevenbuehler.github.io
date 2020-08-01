@@ -39,7 +39,7 @@ texture:
 # - colophon.md
 
 # Build settings
-theme: texture
+# theme: texture
 
 plugins:
   - jekyll-seo-tag
