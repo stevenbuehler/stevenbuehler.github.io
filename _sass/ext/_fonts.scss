@@ -20,7 +20,7 @@
 }
 */
  
- [class^="fab "]:before {
+ [class^="fab "]:before, [class^= "fas "] {
   display: inline-block;
   text-decoration: inherit;
   width: 1em;
