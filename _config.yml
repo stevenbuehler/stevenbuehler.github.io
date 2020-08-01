@@ -1,17 +1,43 @@
-remote_theme: thelehhman/texture
-title: Steven W. Buehler
-description: Late-40-something (going on 12). Data & Theme Park Addict. Ravenclaw. My patronus is a St. Bernard.
-logo: https://ntnloq.bn.files.1drv.com/y4mzXJRksYPKB96D2b5L2d-5UBSzqYFOSQ1yO0Ba-6yRD3P-KoNuBLRfV83y1vAYdVKL3fKe8ddJFI1SQ9HnH930i9zHPWG2NYsBBVXnwQBqtco54zfTKMy1vVk6JmsU-8GEKreFKVBk-sXcwPErV5jMriFKFjy9ge0IJ7wBjbFO_uZ6tvtgVIBdl_oDN3zhTfVwUJ1fVYGUTEKyr1H0htISg?width=256&height=256&cropmode=none
+title: Texture Theme
+author: GitHub User
+email: your-email@domain.com
+description: > # this means to ignore newlines until "show_exerpts:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+show_excerpts: true # set to true to show excerpts on the homepage
+baseurl: /texture
 
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+sass:
+  sass_dir: _sass
+
+permalink: /posts/:title/
 texture:
-  title: "Steven Watson Buehler"
-  tagline: "Late-40-something (going on 12). Data & Theme Park Addict. Ravenclaw. My patronus is a St. Bernard."
+  title: Adam Denisov
+  tagline: Developer. Designer
   date_format: "%b %-d, %Y"
-  style: blue
-  analytics_id: "US-152149005-1"
-  showNav: true
-  
+  style: black
+  showNav: false
+  showPicker: true
+
+  # generate social links in footer
   social_links:
-    twitter: alive_awakened
-    github:  aliveawakened
-    linkedIn: in/stevenwatsonb # format: locale/username
+    twitter: thelehhman
+    github:  thelehhman
+    linkedIn: in/thelehhman
+    rss: rss
+ 
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
+# theme: texture
+
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed
