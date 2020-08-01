@@ -20,12 +20,7 @@
 }
 */
  
- [class^="fab-"]:before, [class*=" fab-"]:before {
-  font-family: "fontello";
-  font-style: normal;
-  font-weight: normal;
-  speak: none;
- 
+ [class^="fab "]:before {
   display: inline-block;
   text-decoration: inherit;
   width: 1em;
