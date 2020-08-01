@@ -17,7 +17,7 @@ texture:
   tagline: Late-40-something (going on 12). Data, chart, and theme park addict. Ravenclaw. My patronus is a St. Bernard.
   date_format: "%b %-d, %Y"
   style: blue
-  showNav: false
+  showNav: true
   showPicker: false
 
   # generate social links in footer
