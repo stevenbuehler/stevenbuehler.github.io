@@ -46,7 +46,7 @@ I also have an [Acer Chromebook Spin 11](https://www.amazon.com/Acer-Chromebook-
 
 I can print quick notes from my Pixel to a smaller-than-palm-sized, battery-powered generic 58mm (2&frac14;&Prime;) wide thermal [receipt/POS printer](https://www.amazon.com/dp/B06VXPLLMQ?psc=1&ref=ppx_pop_dt_b_product_details) I bought online that has Bluetooth&trade; and USB connections. Saves me the effort of having contact cards printed up when I can quickly print information and/or a QR code on the fly using [this app](https://play.google.com/store/apps/details?id=com.loopedlabs.escposprintservice).
 
-To store a lot of electronic documents on the go, I have a 32 GB [Kindle Paperwhite](https://www.amazon.com/dp/B07CXG6C9W) e-reader. I also send a lot of converted web pages and ePubs that I want to look at later (like in bed before I go to sleep). I use [Calibre](https://calibre-ebook.com/) software to convert from other formats to Kindle's native format. Why a separate e-reader when there's already one in the Yoga Book? Because the Yoga Book's e-reader _sucks_. s
+To store a lot of electronic documents on the go, I have a 32 GB [Kindle Paperwhite](https://www.amazon.com/dp/B07CXG6C9W) e-reader. I also send a lot of converted web pages and ePubs that I want to look at later (like in bed before I go to sleep). I use [Calibre](https://calibre-ebook.com/) software to convert from other formats to Kindle's native format. Why a separate e-reader when there's already one in the Yoga Book? Because the Yoga Book's e-reader _sucks_.
 
 I drove a [Smart fortwo Passion](https://www.smart.com) until early in 2020, when I traded it in for a basic 2017 [Toyota Yaris](https://toyota.com/yaris) liftback. Before being in cars I was riding motor scooters year-round (even in the Florida summer storm weather) starting with a 50 cc Yamaha Zuma and then moving up to a Yamaha Vino 125 and finally a Suzuki Burgman 400 until a few wipe-outs convinced me it was time to find something safer.
 
@@ -78,7 +78,7 @@ Desktop apps:
 
 - [Acoustica Mixcraft Pro Studio](https://acoustica.com/) for music creation.
 
-- [VcXsrv](https://sourceforge.net/projects/vcxsrv/) as an X-Server when I'm remotely accessing the Raspberry Pi or my desktop's <abbrev title="Windows Services for Linux">WSL</a>2 instance.
+- [VcXsrv](https://sourceforge.net/projects/vcxsrv/) as an X-Server when I'm remotely accessing the Raspberry Pi or my desktop's <abbrev title="Windows Services for Linux">WSL</abbrev>2 instance.
 
 - [Gnome Evolution](https://wiki.gnome.org/Apps/Evolution) to connect to Gmail/Contacts/Calendar when I need to organize/clean stuff up.
 
