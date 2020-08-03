@@ -56,7 +56,9 @@ I use a combination of [Microsoft 365](https://www.office365.com) and [Google Ap
 
 I mentioned that I use a Raspberry Pi 4B to automate a lot of things; among them:
 
-- Retrieving RSS feeds and pushing them to an "RSS" label in my Gmail account every hour.
+- Using [rss2email](https://github.com/wking/rss2email) to fetch and push RSS feeds to an "RSS" mailbox in my Gmail account every hour to read at my leisure.
+
+- In combination with [IFTTT](https://www.ifttt.com) on my Pixel and a custom Python CGI script, pushing the notifications I receive on my Pixel to a "Notifications" mailbox in my Gmail account as email messages. The notifications include received text messages and their contents.
 
 - Regularly pulling data from various APIs for whatever data projects I'm working on (including the COVID-19 charts I've been publishing to Twitter every day) using the Raspberry Pi version of [Wolfram Mathematica](https://www.wolframresearch.com).
 
