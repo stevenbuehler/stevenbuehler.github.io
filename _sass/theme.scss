@@ -2,6 +2,7 @@
 @import 'ext/normalize';
 @import 'begin';
 @import 'syntax';
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Basic:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 $linkColor: #999;
 $mobileW: 768px;
@@ -17,7 +18,7 @@ $lightGray: #eee;
 }
 
 body {
-	font-family: 'Nunito Sans', sans-serif;
+	font-family: 'Gentium Basic', serif;
 	@include fluidType(16px, 19px);
 	line-height: 1.55em;
 	margin: 0;
