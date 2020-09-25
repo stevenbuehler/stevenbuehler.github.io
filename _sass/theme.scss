@@ -2,7 +2,7 @@
 @import 'ext/normalize';
 @import 'begin';
 @import 'syntax';
-@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
 
 $linkColor: #999;
 $mobileW: 768px;
@@ -18,7 +18,7 @@ $lightGray: #eee;
 }
 
 body {
-	font-family: 'PT Serif', serif;
+	font-family: 'Libre Baskerville', serif;
 	@include fluidType(16px, 19px);
 	line-height: 1.55em;
 	margin: 0;
