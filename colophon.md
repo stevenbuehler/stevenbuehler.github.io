@@ -5,7 +5,7 @@ author: Steven Buehler
 date: 2020-09-25
 ---
 
-<div align="center"><img src="images/colophon.png" /></div>
+<div align="center"><img src="/images/colophon.png" /></div>
 
 <div style="border: 1px red">
 This page is still a work in progress; I need to add links to all of the things I've mentioned below. &mdash;S.B.
