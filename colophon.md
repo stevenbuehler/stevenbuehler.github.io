@@ -5,6 +5,8 @@ author: Steven Buehler
 date: 2020-09-25
 ---
 
+# Colophon
+
 <div align="center"><img src="/images/colophon.png" /></div>
 
 <div style="border: 1px red">
@@ -15,11 +17,11 @@ A _colophon_ is "a statement at the end of a book, typically with a printer's em
 
 The most significant update in this version is that I'm back to using [macOS](https://www.apple.com/macos) and [iOS](https://www.apple.com/iphone) as my primary platforms. I haven't forsaken Windows (because Macs are not exactly known for great gaming experiences), but gaming (and work, by necessity) are about the only purposes I use it for anymore.
 
-# My Most Important Tools
+## My Most Important Tools
 
 My two most important tools are [Visual Studio Code](https://code.visualstudio.com) and [emacs](https://www.emacs.org) [org-mode](https://orgmode.org). VS Code is a cross-platform text and code editor adaptable to just about every situation; `org-mode` keeps me organized, lets me track my work, and lets me easily keep records of other things with simple, portable plain text files. I write the pages and posts for my blog in Markdown using VS Code.
 
-# Web Tools
+## Web Tools
 
 The blog is hosted on [Github Pages](https://pages.github.io), powered by the Jekyll blog engine. Pages and posts can be written using Markdown (my personal preference), X/HTML, or Liquid markup. The theme is more or less stock, with a few customizations to suit my own tastes and format needs.
 
@@ -29,13 +31,13 @@ I've been working to consolidate all of my email, documents, records, &c., into 
 
 I engage in social media on [Facebook](https://www.facebook.com/stevenwatsonbuehler), [Twitter](https://twitter.com/stevenwbuehler), [Instagram](https://instagram.com/stevenwbuehler), and [TikTok](https://tiktok.com/@stevenwbuehler), and frequently livestream on Facebook and [Twitch](https://www.twitch.tv/stevenwbuehler). I played with Snapchat for a while but ended up not using it very much so I shut down the account.
 
-# Software Tools
+## Software Tools
 
 Rather than write with a word processor like Word or Pages, I do most of my writing using Dr. Donald Knuth's [TeX](https://www.tug.org) computer typesetting package, Markdown, or `org-mode`. Plain text files are much more portable and I don't have to worry a whole lot about them becoming incompatible with later software versions down the road; and when I need to send something in a proprietary format like Word or an ebook, [Pandoc](https://www.pandoc.org) comes to the rescue.
 
 There are somethings that TeX can't do without significant effort, though; and in those cases where something fancier is needed I'll use [Microsoft Office](https://www.office.com) or Apple's "formerly known as iWork" suite (Pages, Numbers, Keynote). 
 
-# Analog/Hardware Tools
+## Analog/Hardware Tools
 
 Nothing, in my opinion, will ever replace pencil (or pen) and paper, for two reasons: first, because writing things down is more effective for memory; and second, because there are many times when it's far faster to pull a piece of paper and a writing tool out of a pocket than waiting for an iPad or other tablet to power up and ready itself for input. It is reaching a point in technological development, though, where dictation and speech recognition is becoming just as quick and effective.
 
