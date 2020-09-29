@@ -18,7 +18,7 @@ permalink: /posts/:title/
 texture:
   title: Steven Buehler
   tagline: Late-40-something (going on 12). Data, chart, and theme park addict. Ravenclaw. My patronus is a St. Bernard.
-  date_format: "%b %-d, %Y"
+  date_format: "%-m/%-d/%Y"
   style: blue
   showNav: true
   showPicker: false
