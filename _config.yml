@@ -11,6 +11,9 @@ baseurl:
 sass:
   sass_dir: _sass
 
+site:
+  url: https://stevenbuehler.github.io
+
 permalink: /posts/:title/
 texture:
   title: Steven Buehler
@@ -24,13 +27,15 @@ texture:
       url: "/"
     - title: "Colophon"
       url: "/colophon"
+    - title: "Feed"
+      url: "/feed.xml"
   disqus_shortname: steven-w-buehler
   # generate social links in footer
   social_links:
     twitter: stevenwbuehler
-    github: steven-w-buehler
+    github: stevenbuehler
     linkedIn: in/stevenwatsonb
-    rss: rss
+    rss: /feed.xml
     twitch: stevenwbuehler
     instagram: stevenwbuehler
     facebook: stevenwatsonbuehler
