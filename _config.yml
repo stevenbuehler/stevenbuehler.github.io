@@ -27,13 +27,13 @@ texture:
   disqus_shortname: steven-w-buehler
   # generate social links in footer
   social_links:
-    twitter: alive_awakened
-    github: alive_awakened
+    twitter: stevenwbuehler
+    github: steven-w-buehler
     linkedIn: in/stevenwatsonb
     rss: rss
-    twitch: alive_awakened
-    instagram: alive_awakened
-    facebook: stevenwbuehler
+    twitch: stevenwbuehler
+    instagram: stevenwbuehler
+    facebook: stevenwatsonbuehler
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
