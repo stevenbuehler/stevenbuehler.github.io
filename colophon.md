@@ -42,7 +42,7 @@ For pen and paper, I've found Norcom's [Exceed](http://www.norcominc.com/brands/
 My **desktop** consists of:
 
 - [iBuyPower Slate 9000W Gaming PC](https://www.walmart.com/ip/iBUYPOWER-Gaming-Desktop-PC-SLATE9000W-Intel-Core-i7-9700F-16GB-DDR4-2666Memory-NVIDIA-GeForce-GTX-1660Ti-240GB-SSD-1TB-HDD-RGB-Windows-10-Home-64-Bi/436132832) (i7-9700K, 16 GB RAM, 6 TB total disk space [2 TB SSD and 4 TB HDD]).
-- Late 2018 [Mac mini](https://www.apple.com/mac-mini/) (i3-8100B, 8 GB RAM, 256 GB SSD hard-wired in, and a bunch of external drives using an Insignia two-bay USB 3.0 Hard Drive Dock). 
+- Late 2018 [Mac mini](https://www.apple.com/mac-mini/) (i3-8100B, ~~8~~ 32! GB RAM, 256 GB SSD hard-wired in, and a bunch of external drives using an Insignia two-bay USB 3.0 Hard Drive Dock). 
 - [Raspberry Pi](https://www.raspberrypi.org) 4 Linux server (128 GB SD card).
 - [Canon PIXMA G4210](https://shop.usa.canon.com/shop/en/catalog/pixma-g4210-wireless-wireless-megatank-all-in-one-inkjet-printer) "megatank" color inkjet all-in-one.
 - [HP LaserJet Pro m118dw](https://store.hp.com/us/en/pdp/hp-laserjet-pro-m118dw) black-and-white laser printer.
