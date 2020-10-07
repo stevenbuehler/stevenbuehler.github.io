@@ -10,9 +10,17 @@ categories:
 
 I do a _lot_ of reading of RSS/Atom feeds throughout the day. In the past, when I find something interesting, I would post it to my [Facebook](https://facebook.com/stevenwatsonbuehler) page, which I'm sure my friends and family get tired of looking at with the waves of political and geeky articles that are constantly posted.
 
-So, instead of constant article links posting to Facebook, I decided to leverage [AppleScript](https://developer.apple.com/library/content/documentation/AppleScript/Conceptual/AppleScriptX/AppleScriptX.html) and the application I use on my Mac to read these feeds ([NetNewsWire](https://ranchero.com/netnewswire/)&mdash;yes, it's back) to create a daily feed of the articles I've "starred" to share in one post per day rather than numerous posts through the day.
+So, instead of constantly posting stuff to Facebook that people probably don't want to read, I decided to post here instead. 
 
-Following are today's articles. Links will take you directly to the article. I strongly advise that if there is a link to the original when you get there, look at the original source whenever you can.
+How it works:
+
+- I made an Automator workflow on my Mac to add the URL of a page I'm reading to a text file, which is simply a list of saved URLs.
+
+- A [PowerShell](https://powershell.org) script pulls up that list, grabs the URL and the title of the page, and then composes a blog post.
+
+- The same script saves the blog post and syncs it to the Github repository that hosts this site.
+
+Following are today's articles. Links will take you directly to the article. I strongly advise that if there is a link to the original when you get there, look at the original source whenever you can. (Note: Future posts will just have a link and the title of the page; this page specifically was originally done in AppleScript against my NetNewsWire feeds but I decided the method abvoe would be a lot faster and easier to automate).
 
 * **Strategic Culture Foundation**: [The Assange Extradition Case Is an Unprecedented Attack on Press Freedom, So Why’s the Media Largely Ignoring It?](https://www.strategic-culture.org/news/2020/10/06/the-assange-extradition-case-is-an-unprecedented-attack-on-press-freedom-so-whys-the-media-largely-ignoring-it/)
 
