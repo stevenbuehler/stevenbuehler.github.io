@@ -25,6 +25,8 @@ texture:
   navigation:
     - title: "Home"
       url: "/"
+    - title: "About"
+      url: "/about"
     - title: "Colophon"
       url: "/colophon"
     - title: "Feed"
