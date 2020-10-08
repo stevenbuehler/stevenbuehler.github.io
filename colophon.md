@@ -61,7 +61,7 @@ My **mobile** bag (usually a [LowePro Streamline 150](https://g.co/kgs/7RvMkK) c
 - [Rylo](https://www.rylo.com) 360&deg; video camera (at least while the software still works).
 - [Nikon CoolPix B500](https://www.nikonusa.com/en/nikon-products/product/compact-digital-cameras/coolpix-b500.html) long-zoom point-and-shoot.
 - A [PNY USB-C storage card reader/USB adapter](https://www.pny.eu/consumer/explore-all-products/readers/941-usb-c-card-reader---usb-adapter).
-- [Apple Earpods](https://www.apple.com/shop/product/MMTN2AM/A/earpods-with-lightning-connector) (both Lightning and &frac18;&Prime; plug version).
+- [Apple Earpods](https://www.apple.com/shop/product/MMTN2AM/A/earpods-with-lightning-connector) (both Lightning and &#x215B;&Prime; plug version).
 
 ...and the **creative** gear:
 
