@@ -1,12 +1,12 @@
 ---
 layout: post
 title: What I'm Reading - Monday, October 12, 2020
-date: 2020-10-12T17:41:15
+date: 2020-10-12
 categories:
   - What I'm Reading
 ---
 
-For more information about this post category, read [this article]({% post_url 2020-09-07--What-Im-Reading %})
+For more information about this post category, read [this article]({% post_url 2020-10-07-What-Im-Reading %})
 
 * **ZeroHedge News:** [Visualizing Every Company In And Out Of The Dow Jones Industrial Average Since 1928](https://www.zerohedge.com/markets/visualizing-every-company-and-out-dow-jones-industrial-average-1928)
 
