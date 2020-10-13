@@ -30,9 +30,9 @@ For more information about this post category, read [this article]({% post_url 2
 
 * **Strategic Culture Foundation:** [Julian Assange Is Facing the "Trial of the Century": 10 Reasons Why It Threatens Freedom of Speech](https://www.strategic-culture.org/news/2020/10/13/assange-facing-trial-of-century-10-reasons-why-threatens-freedom-speech/)
 
-* **News | WFLA:** ['Upsetting' Halloween display in Danville shows hanging Trump](https://www.wfla.com/news/national/upsetting-halloween-display-in-danville-shows-hanging-trump/)
+* **News \| WFLA:** ['Upsetting' Halloween display in Danville shows hanging Trump](https://www.wfla.com/news/national/upsetting-halloween-display-in-danville-shows-hanging-trump/)
 
-* **News | WFLA:** [Florida man brought AR-15 to Disney World for family's safety amid protests](https://www.wfla.com/news/florida/florida-man-brought-ar-15-to-disney-world-for-familys-safety-amid-protests/)
+* **News \| WFLA:** [Florida man brought AR-15 to Disney World for family's safety amid protests](https://www.wfla.com/news/florida/florida-man-brought-ar-15-to-disney-world-for-familys-safety-amid-protests/)
 
 * **Hindenburg Research:** [Loop Industries: Former Employees and Plastics Experts Blow The Whistle On This "Recycled" Smoke And Mirrors Show](https://hindenburgresearch.com/loop/)
 
