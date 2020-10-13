@@ -6,7 +6,7 @@ categories:
   - What I'm Reading
 ---
 
-For more information about this post category, read [this article]({% post_url 2020-10-07--What-Im-Reading %})
+For more information about this post category, read [this article]({% post_url 2020-10-07-What-Im-Reading %})
 
 * **ZeroHedge News:** [Eli Lilly Suspends COVID-19 Antibody Therapy Trial Over "Potential Safety Concern"](https://www.zerohedge.com/markets/eli-lilly-suspends-covid-19-antibody-therapy-trial-over-potential-safety-concern)
 
