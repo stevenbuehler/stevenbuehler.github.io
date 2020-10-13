@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What I'm Reading - Tuesday, October 13, 2020
-date: 2020-10-13T17:38:22
+date: 2020-10-13
 categories:
   - What I'm Reading
 ---
