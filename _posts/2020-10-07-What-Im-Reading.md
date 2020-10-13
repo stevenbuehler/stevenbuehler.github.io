@@ -12,15 +12,9 @@ I do a _lot_ of reading of RSS/Atom feeds throughout the day. In the past, when 
 
 So, instead of constantly posting stuff to Facebook that people probably don't want to read, I decided to post here instead. 
 
-How it works:
+Usually daily, I have an AppleScript grab articles that I have starred in [NetNewsWire](https://ranchero.com/netnewswire/) and compile them into a post like the one you're reading now. 
 
-- I made an Automator workflow on my Mac to add the URL of a page I'm reading to a text file, which is simply a list of saved URLs.
-
-- A [PowerShell](https://powershell.org) script pulls up that list, grabs the URL and the title of the page, and then composes a blog post.
-
-- The same script saves the blog post and syncs it to the Github repository that hosts this site.
-
-Following are today's articles. Links will take you directly to the article. I strongly advise that if there is a link to the original when you get there, look at the original source whenever you can. (Note: Future posts will just have a link and the title of the page; this page specifically was originally done in AppleScript against my NetNewsWire feeds but I decided the method abvoe would be a lot faster and easier to automate).
+You'll see a lot of links from sites like [Zero Hedge](https://zerohedge.com), which typically comment on articles from other sites; in those instances they include links to the original article. I encourage anyone to study the information for themselves, so definitely take advantage of those links to the source material when possible. Don't just take the word of whatever site I'm linking to for it. 
 
 * **Strategic Culture Foundation**: [The Assange Extradition Case Is an Unprecedented Attack on Press Freedom, So Why’s the Media Largely Ignoring It?](https://www.strategic-culture.org/news/2020/10/06/the-assange-extradition-case-is-an-unprecedented-attack-on-press-freedom-so-whys-the-media-largely-ignoring-it/)
 
