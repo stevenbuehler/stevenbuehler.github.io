@@ -6,7 +6,7 @@ categories:
   - What I'm Reading
 ---
 
-For more information about this post category, read [this article]({% post_url 2020-10-07-What-Im-Reading %})
+For more information about this post category, read [this article]({% post_url 2020-10-07-What-Im-Reading-20201007 %})
 
 * **ZeroHedge News:** [Visualizing Every Company In And Out Of The Dow Jones Industrial Average Since 1928](https://www.zerohedge.com/markets/visualizing-every-company-and-out-dow-jones-industrial-average-1928)
 
