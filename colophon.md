@@ -56,7 +56,8 @@ My **mobile** bag (usually a [LowePro Streamline 150](https://g.co/kgs/7RvMkK) c
 - ~~[Google Pixel 4 XL](https://store.google.com/us/product/pixel_4)~~ [Apple iPhone 11 Pro Max](https://www.apple.com/shop/buy-iphone/iphone-11-pro) (64 GB).
 - [Lenovo Yoga Book C930](https://www.lenovo.com/us/en/laptops/yoga/yoga-2-in-1-series/Yoga-Book-C930/p/ZZIWZWBYB1J) dual-screen Windows 2-in-1 w/ Precision Pen.
 - [Acer Chromebook Spin 11](https://www.acer.com/ac/en/US/content/series/acerchromebookspin11) ChromeOS 2-in-1 w/ Digital Pen.
-- Samsung [Galaxy Tab S6 Lite](https://www.samsung.com/us/mobile/tablets/tab-s6-lite/) Android tablet w/ S-Pen, eventually to be replaced with an iPad (or iPad Pro) and Apple Pencil.
+- Samsung [Galaxy Tab S6 Lite](https://www.samsung.com/us/mobile/tablets/tab-s6-lite/) Android tablet w/ S-Pen.
+- Apple iPad (8th generation) with a [Logitech Crayon](https://logitech.com/crayon) instead of Apple Pencil.
 - [Anker PowerCore Metro Essential](https://www.anker.com/products/variant/powercore-essential-20000/A1268011) 20,000-mAh power bank.
 - [Rylo](https://www.rylo.com) 360&deg; video camera (at least while the software still works).
 - [Nikon CoolPix B500](https://www.nikonusa.com/en/nikon-products/product/compact-digital-cameras/coolpix-b500.html) long-zoom point-and-shoot.
