@@ -30,14 +30,14 @@ It's repeated again in Leviticus 23, this time with specific dates:
 
 > These are the appointed times of the Lord, holy convocations which you shall proclaim at the times appointed for them. In the first month, on the fourteenth day of the month at twilight is the Lord’s Passover. Then on the fifteenth day of the same month there is the Feast of Unleavened Bread to the Lord; for seven days you shall eat unleavened bread. On the first day you shall have a holy convocation; you shall not do any laborious work. But for seven days you shall present an offering by fire to the Lord. On the seventh day is a holy convocation; you shall not do any laborious work.’ (Leviticus 23:4&ndash;8)
 
-As was done in Exodus, the first and seventh days (specifically, the 14th and 21st of Nisan (the first month) in the Jewish calendar), are called as "High Sabbaths" in the Jewish calendar (the NASB calls them "holy convocatons"; other translations use the term 'Sabbath' explicitly). Another detail about this is also important: _these Sabbaths do not necessarily occur on the last day of the week._ 
+As was done in Exodus, the first and seventh days (specifically, the 14th and 21st of Nisan (the first month) in the Jewish calendar), are called as "High Sabbaths" in the Jewish calendar (the NASB calls them "holy convocatons"; other translations use the term 'Sabbath' explicitly). Another detail about this is also important: _these Sabbaths do not necessarily occur on the last day of the week._ In this case, it appears there were actually _two_ Sabbath days in a row (the High Sabbath of the first day of the Feast of Unleavened Bread, followed by the regular Sabbath of the last day of the week).
 
 So, as we continue, here comes the timeline:
 
 - 13th of Nisan: Jesus celebrates Passover with his disciples, prays in Gethsemane, is arrested and brought before the Sanhedrin during the night (Luke 22).
 - 14th of Nisan: Passover at twilight. Jesus is brought before Pilate, beaten, and crucified, dies (Luke 23). He is buried in a hurry because "[i]t was a preparation day, and a _Sabbath_ was about to begin" (Luke 23:54). The Sabbath in question is the High Sabbath on the first day of the Feast of Unleavened Bread on 15th Nisan. _It is not necessarily the Sabbath on the last day of the week (Saturday)._
 - 15th of Nisan: First day Jesus in the tomb. First day of the Feast of Unleavened Bread (a High Sabbath).
-- 16th of Nisan: Second day Jesus in the tomb.
+- 16th of Nisan: Second day Jesus in the tomb. Also the last day of the week, so a regular Sabbath.
 - 17th of Nisan: The third day, Jesus rises from the dead on the first day of the week (Luke 24:1). Feast of First Fruits?[^2]
 
 A few other interesting pieces of information, by the way, about the 17th of Nisan:
