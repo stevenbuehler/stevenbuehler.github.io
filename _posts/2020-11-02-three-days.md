@@ -22,9 +22,7 @@ The feast of Passover is instituted in Exodus 12:
 
 > Now this day shall be a memorial to you, and you shall celebrate it as a feast to the Lord; throughout your generations you are to celebrate it as a permanent ordinance. For seven days you shall eat unleavened bread, but on the first day you shall remove dough with yeast from your houses; for whoever eats anything with yeast from the first day until the seventh day, that person shall be cut off from Israel. And on the first day you shall have a holy assembly, and another holy assembly on the seventh day; no work at all shall be done on them, except for what must be eaten by every person—that alone may be prepared by you. You shall also keep the Feast of Unleavened Bread, for on this very day I brought your multitudes out of the land of Egypt; therefore you shall keep this day throughout your generations as a permanent ordinance. In the first month, on the fourteenth day of the month at evening, you shall eat unleavened bread, until the twenty-first day of the month at evening. For seven days there shall be no dough with yeast found in your houses; for whoever eats anything with yeast, that person shall be cut off from the congregation of Israel, whether he is a stranger or a native of the land. You shall not eat anything with yeast; in all your dwellings you shall eat unleavened bread.[^1]
 
-[^1]: Scripture taken from the NEW AMERICAN STANDARD BIBLE®,
-Copyright © 1960,1962,1963,1968,1971,1972,1973,1975,1977,1995
-by The Lockman Foundation. Used by permission.
+[^1]: Scripture taken from the NEW AMERICAN STANDARD BIBLE®, Copyright © 1960,1962,1963,1968,1971,1972,1973,1975,1977,1995 by The Lockman Foundation. Used by permission.
 
 It's repeated again in Leviticus 23, this time with specific dates:
 
