@@ -6,7 +6,7 @@ categories:
     - Exegesis
 ---
 
-**Q:** If Jesus died on Good Friday, and rose from the dead on Easter, how could have risen on the third day when there are only two days between Friday and Sunday?
+**Q:** If Jesus died on Good Friday, and rose from the dead on Easter, how could Jesus have risen on the third day when there are only two days between Friday and Sunday?
 
 **TL;DR Answer:** Jesus didn't die on Good Friday.
 
