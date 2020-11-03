@@ -35,7 +35,7 @@ As was done in Exodus, the first and seventh days (specifically, the 14th and 21
 So, as we continue, here comes the timeline:
 
 - 13th of Nisan: Jesus celebrates Passover with his disciples, prays in Gethsemane, is arrested and brought before the Sanhedrin during the night (Luke 22).
-- 14th of Nisan: Passover at twilight. Jesus is brought before Pilate, beaten, and crucified, dies (Luke 23). He is buried in a hurry because "[i]t was a preparation day, and a _Sabbath_ was about to begin" (Luke 23:54). The Sabbath in question is the High Sabbath on the first day of the Feast of Unleavened Bread on 15th Nisan. _It is not necessarily the Sabbath on the last day of the week (Saturday)._
+- 14th of Nisan: Passover at twilight. Jesus is brought before Pilate, beaten, and crucified, dies (Luke 23). He is buried in a hurry in a borrowed tomb because "[i]t was a preparation day, and a _Sabbath_ was about to begin" (Luke 23:54). The Sabbath in question is the High Sabbath on the first day of the Feast of Unleavened Bread on 15th Nisan. _It is not necessarily the Sabbath on the last day of the week (Saturday)._
 - 15th of Nisan: First day Jesus in the tomb. First day of the Feast of Unleavened Bread (a High Sabbath).
 - 16th of Nisan: Second day Jesus in the tomb. Also the last day of the week, so a regular Sabbath.
 - 17th of Nisan: The third day, Jesus rises from the dead on the first day of the week (Luke 24:1). Feast of First Fruits?[^2]
