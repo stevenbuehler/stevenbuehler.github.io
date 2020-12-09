@@ -4,18 +4,17 @@ title: Steven's Personal Manual
 date: 2020-11-08
 author: Steven Buehler
 ---
-# Just so you know what you're getting into&hellip;
+# Concerning the care and feeding of a nerd. In particular, _me_.
 
-Note
+Notes
 ====
 
-This document gets updated rather frequently. The date under the title
-above is the most recent date that it had an update.
+This document gets updated rather frequently. It was last updated on December 8, 2020.
 
-My life is an open book. If there's something here you're dying to know just ask. The answer may end up in this "manual."
+I say this often&mdash;my life is an open book. If there's something not in here you're dying to know or are curious about just ask. The answer may end up in this "manual."
 
 If you came here from **Tinder** or **Bumble**—my accounts there are not
-paid, so I have no idea who’s liking unless I swipe right on someone who
+paid, so I have no idea who’s liked me unless I swipe right on someone who
 already has done the same on me. **Facebook Dating** does not have this
 restriction.
 
