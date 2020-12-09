@@ -1,6 +1,6 @@
 title: Steven Watson Buehler
 author: Steven Watson Buehler
-email: alive.awakened@gmail.com
+email: stevenwbuehler@icloud.com
 description: > # this means to ignore newlines until "show_excerpts:"
   Late-40-something (going on 12). Data, chart, and theme park addict. Ravenclaw. My patronus is a St. Bernard.
 show_excerpts: false # set to true to show excerpts on the homepage
@@ -12,7 +12,7 @@ sass:
   sass_dir: _sass
 
 site:
-  url: https://stevenbuehler.github.io
+  url: https://swbuehler.com
 
 permalink: /posts/:title/
 texture:
@@ -34,12 +34,12 @@ texture:
   disqus_shortname: steven-w-buehler
   # generate social links in footer
   social_links:
-    twitter: stevenwbuehler
+    twitter: gloriousabsence
     github: stevenbuehler
     linkedIn: in/stevenwatsonb
     rss: /feed.xml
-    twitch: stevenwbuehler
-    instagram: stevenwbuehler
+    twitch: gloriousabsenceofskill
+    instagram: gloriousabsenceofskill
     facebook: stevenwatsonbuehler
 
 # If you want to link only specific pages in your header, uncomment
