@@ -6,8 +6,8 @@ layout: page
 
 <div id="map" style="width: 600px; height: 600px; background-color: grey; float: right; padding-left: 10px;"></div>
 <script>
-    async function initMap() {
-        let response = await fetch('https://api.foursquare.com/v2/users/self/checkins?oauth_token=OUJAKNXBLNCOPMUUB1FCJ4SKMFD12MVILL2ZVEWTKGEZK0FZ&limit=250&sort=newestfirst&v=20201206');
+    await function initMap() {
+        let response = await fetch('https://swbuehler.com/swarm.json');
         let myJSON = await response.json();
         let data = myJSON.response.checkins.items;
         var home = { lat: 27.990363, lng: -82.117783 };
