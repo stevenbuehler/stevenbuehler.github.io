@@ -10,7 +10,7 @@ layout: page
 </p>
 <div id="map" style="width: 600px; height: 600px; background-color: grey; float: right; padding: 10px"></div>
 <script>
-    await function initMap() {
+    async function initMap() {
         let response = await fetch('https://swbuehler.com/swarm.json');
         let myJSON = await response.json();
         let data = myJSON.response.checkins.items;
