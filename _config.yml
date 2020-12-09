@@ -29,6 +29,8 @@ texture:
       url: "/about"
     - title: "Colophon"
       url: "/colophon"
+    - title: "Personal Informatics"
+      url: "/dataprojects"
     - title: "Feed"
       url: "/feed.xml"
   disqus_shortname: steven-w-buehler
