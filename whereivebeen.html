@@ -1,32 +1,32 @@
-<html>
-<head>
-  <title>My map</title>
-  <style>
-#map {
-    width: 100%;
-    height: 400px;
-    background-color: grey;
-}
-</style>
+---
+title: Where I've Been
+author: Steven W. Buehler
+layout: page
+---
 
-</head>
-<script defer
-    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyACcfW8DbZVGmqrbQvtcogA5zYOBjlUz68&callback=initMap">
-</script>
-<body>
-<div id="map"></div>
-  <script>
-
-    function initMap() {
-
-        var Home = {lat: 27.990508, lng: -82.117655}; 
-
+<div id="map" style="width: 600px; height: 600px; background-color: grey; float: right; padding-left: 10px;"></div>
+<script>
+    async function initMap() {
+        let response = await fetch('https://api.foursquare.com/v2/users/self/checkins?oauth_token=OUJAKNXBLNCOPMUUB1FCJ4SKMFD12MVILL2ZVEWTKGEZK0FZ&limit=250&sort=newestfirst&v=20201206');
+        let myJSON = await response.json();
+        let data = myJSON.response.checkins.items;
+        var home = { lat: 27.990363, lng: -82.117783 };
         var map = new google.maps.Map(document.getElementById('map'), {
-            zoom: 10,
-            center: Home
+            zoom: 8,
+            center: home
         });
+        for (var i = 0; i < data.length; i++) {
+            new google.maps.Marker({
+                map: map,
+                position: {
+                    lat: data[i].venue.location.lat,
+                    lng: data[i].venue.location.lng
+                },
+                icon: 'http://maps.google.com/mapfiles/kml/shapes/placemark_circle_highlight.png'
+            });
+        }
     }
 </script>
-
-</body>
-</html>
+<script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyACcfW8DbZVGmqrbQvtcogA5zYOBjlUz68&callback=initMap">
+</script>
