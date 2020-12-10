@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25cm" height="25cm" viewBox="0cm 0cm 25cm 25cm">
+    <style>
+        rect {fill: none; stroke:black; stroke-width:0.25pt}
+    </style>
+    <!-- Main plan -->
+    <rect x="0cm" y="0cm" width="23.039cm" height="21.379cm" />
+    <!-- Living Room -->
+    <rect x="0cm" y="0cm" width="11.854cm" height="21.379cm" />
+
+</svg>
