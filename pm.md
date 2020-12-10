@@ -9,7 +9,7 @@ author: Steven Buehler
 Notes
 ====
 
-This document gets updated rather frequently. It was last updated on December 8, 2020.
+This document gets updated rather frequently. It was last updated on December 9, 2020 with a new section about my politics.
 
 I say this often&mdash;my life is an open book. If there's something not in here you're dying to know or are curious about just ask. The answer may end up in this "manual."
 
@@ -202,6 +202,19 @@ sermon).
 I will be honest in saying that I’ve not been to church in a while
 especially since my late wife’s passing, because of my social anxiety,
 which the COVID “lockdowns” have only served to exacerbate.
+
+Politics
+--------
+
+I hate having to write about politics, but apparently it's become a showstopper for a lot of people, thanks to the divisiveness our mainstream and social media platforms have wedged into our country, to the point that some are willing to resort to violence or shunning to get their way.  People fail to note that "tolerance" has to go _both_ ways or it's nothing of the sort.
+
+My voter registration is "NPA" (No Party Affiliation), but I definitely lean moderate-to-conservative and generally vote Republican unless there's a candidate from another party who is far more qualified.
+
+Let's get this out of the way now: **I voted for Trump in 2020,** and I held my nose while doing so. In 2016 I voted for neither Trump nor Clinton and instead wrote in "ABSTAIN" because I didn't like any of the candidates. I still don't really like Trump _the person_. He's full of himself. As President it was clear he was ignoring his counselors and doing his own thing, trying to treat the White House like Trump, Inc. When objectively studying his record versus what he promised the people who voted him into office, however, he was one of the few leaders who actually kept many of those promises while in office until the COVID pandemic threw everything off the rails and _everybody_ was having to go without a playbook. In the mainstream interviews and soundbites I saw of Mr. Biden, I saw a person who cleary had issues with mental capacity, jumbling words in speeches just one example (of course, George W. Bush wasn't that great with words, neither), and I saw a very different candidate from past cycles who was being pulled _hard_ to the Socialist left by the more radical elements of the Democratic Party. The Republicans have their Tea Party, Democrats have their Socialists. Neither are appropriate.
+
+When it comes to government and politics, ultimately it's the candidate with the money and the deep-state connections who wins. Trump was a rare exception. This is something I'll have to write about in more detail at another time.
+
+**For the record,** I don't follow emotional/illogical political arguments without support. I read the articles and the legal pleadings. I look for the data and analyze it myself and draw my own conclusions. Headlines are designed to draw eyeballs&mdash;the more eyeballs looking at their news site, the more advertising revenue they get. That's internet reality.  I don't care what people said or did twenty, thirty years ago. I care what they're saying and doing _right now._
 
 How things work with me
 =======================
