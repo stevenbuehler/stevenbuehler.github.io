@@ -13,10 +13,24 @@ This document gets updated rather frequently. It was last updated on December 9,
 
 I say this often&mdash;my life is an open book. If there's something not in here you're dying to know or are curious about just ask. The answer may end up in this "manual."
 
-If you came here from **Tinder** or **Bumble**—my accounts there are not
-paid, so I have no idea who’s liked me unless I swipe right on someone who
-already has done the same on me. **Facebook Dating** does not have this
-restriction.
+TL;DR Version
+=============
+
+- 48, 6'1", 235-ish trying to get rid of this gut.
+
+- Previously married, divorced after 9&frac12; years, married again, widowed since 2016. I pay child support for a son adopted during my first marriage that I haven't gotten to see since he was four (he's now 17). There's no drama&mdash;ex and I are on friendly terms on the rare occasions we do talk and we avoid talking bad about each other. The ex-in-laws, however&hellip;
+
+- High-functioning autistic (Asperger Syndrome); glorious lack of social/dating skills; extremely introverted. I can talk nerdy to you all day.
+
+- Theme park junkie (APs to Busch Gardens, SeaWorld, Universal, and Kennedy Space Center). I drive out to see launches when I can. I'll often go to theme parks just to walk around, but I'm also _hopelessly_ hooked on coasters.
+
+- I spend my life in front of a computer screen, both at work (from home) and at home (for personal stuff).
+
+- _I am not trying to get into anyone's pants._ Snuggling up together for a _siesta_ is just as wonderful to me. 
+
+- I am a Christian who belives faith should be intimate _and_ intelligent; I'm equally comfortable in liturgical and spontaneous settings (grew up Catholic, got my religion degree from a Pentecostal university).
+
+- I am a far better writer than talker, whether it's words or music.
 
 Where am I online?
 ==================
@@ -43,19 +57,6 @@ I’m going to admit this idea is not original with me. Jon Saddington
 wrote a while back about him and his employees [writing a personal
 manual](https://john.do/user-manual/) about themselves, and I
 figured, well, my social skills suck, but I can write. So here goes.
-
-Who am I
-========
-
--   __Height:__ 6’1” (I fold neatly into thirds).
-
--   __Weight:__ 235.9, most of it hanging out in my belly; trying to get down to 200 then eventually to 180-ish. First goal is to fit comfortably in a regular roller coaster seat.
-
--   __Hair:__ Brown, routinely cut down to less than ⅛” so I don’t have to deal with it.
-
--   __Shoe size:__ 12 (I’m told that’s significant for some reason).
-
--   __Fascinated with__ technology, animals, space, and nature.
 
 The long version
 ================
@@ -145,10 +146,10 @@ front of my work laptop, I’m in front of my personal Mac or one of my
 several other computing devices. With nobody really to hang out or do
 anything with, this is all I know.
 
-I do have passes to
+I have passes to
 [Universal](https://www.universalorlando.com), [Busch
-Gardens](https://www.buschgardens.com/tampa), and [SeaWorld
-Orlando](https://www.seaworld.com/orlando) (I let my
+Gardens](https://www.buschgardens.com/tampa), [SeaWorld
+Orlando](https://www.seaworld.com/orlando), and the [Kennedy Space Center Visitor Complex](https://kennedyspacecenter.com) over on Merritt Island (I let my
 [Disney](https://disneyworld.disney.go.com) one expire during the
 spring COVID shutdown and didn’t renew), and when I’m able it’s how I
 get myself out of the apartment and move around. As a kid I was scared
@@ -158,7 +159,7 @@ in and enjoy the atmosphere or take pictures. I’ll also venture out on a
 day trip to places that pique my interest from time to time. Most of
 those pictures end up on my Instagram.
 
-I got mental
+I am mental
 ------------
 
 I was diagnosed in 2005 with Asperger Syndrome (I call it
