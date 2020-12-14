@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Steven's Personal Manual
-date: 2020-11-08
+date: 2020-12-14
 author: Steven Buehler
 ---
 # Concerning the care and feeding of a nerd. In particular, _me_.
@@ -9,7 +9,7 @@ author: Steven Buehler
 Notes
 ====
 
-This document gets updated rather frequently. It was last updated on December 9, 2020 with a new section about my politics.
+This document gets updated rather frequently. It was last updated on December 14, 2020.
 
 I say this often&mdash;my life is an open book. If there's something not in here you're dying to know or are curious about just ask. The answer may end up in this "manual."
 
