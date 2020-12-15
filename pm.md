@@ -6,6 +6,11 @@ author: Steven Buehler
 ---
 # Concerning the care and feeding of a nerd. In particular, _me_.
 
+> How much happier you would be, how much more of you there would be, if the hammer of a higher God could smash your small cosmos, scattering the stars like spangles, and leave you in the open, free like other men to look up as well as down! &mdash;G. K. Chesteron, _Orthodoxy_ (1908).
+
+> I know the sky is not the limit, because there are footprints on the moon, and I made some of them. &mdash;Buzz Aldrin.
+
+
 Notes
 ====
 
