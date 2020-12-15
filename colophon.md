@@ -45,7 +45,7 @@ For pen and paper, I've found Norcom's [Exceed](http://www.norcominc.com/brands/
 
 My **desktop** consists of:
 
-- [iBuyPower Slate 9000W Gaming PC](https://www.walmart.com/ip/iBUYPOWER-Gaming-Desktop-PC-SLATE9000W-Intel-Core-i7-9700F-16GB-DDR4-2666Memory-NVIDIA-GeForce-GTX-1660Ti-240GB-SSD-1TB-HDD-RGB-Windows-10-Home-64-Bi/436132832) (i7-9700K, 16 GB RAM, 6 TB total disk space [2 TB SSD and 4 TB HDD]).
+- [iBuyPower Slate 9000W Gaming PC](https://www.walmart.com/ip/iBUYPOWER-Gaming-Desktop-PC-SLATE9000W-Intel-Core-i7-9700F-16GB-DDR4-2666Memory-NVIDIA-GeForce-GTX-1660Ti-240GB-SSD-1TB-HDD-RGB-Windows-10-Home-64-Bi/436132832) (i7-9700K, 16 GB RAM, 240 GB SSD and 2 TB HDD).
 - Late 2018 [Mac mini](https://www.apple.com/mac-mini/) (i3-8100B, ~~8~~ _32!_ GB RAM, 256 GB SSD hard-wired in, and a bunch of external drives using an Insignia two-bay USB 3.0 Hard Drive Dock). 
 - [Raspberry Pi](https://www.raspberrypi.org) 4 Linux server (128 GB SD card).
 - [Canon PIXMA G4210](https://shop.usa.canon.com/shop/en/catalog/pixma-g4210-wireless-wireless-megatank-all-in-one-inkjet-printer) "megatank" color inkjet all-in-one.
@@ -58,7 +58,7 @@ My **desktop** consists of:
 My **mobile** bag (usually a [LowePro Streamline 150](https://g.co/kgs/7RvMkK) camera bag, but I have other backpacks and such) includes some combination of the following (not all at once):
 
 - ~~[Google Pixel 4 XL](https://store.google.com/us/product/pixel_4)~~ [Apple iPhone 11 Pro Max](https://www.apple.com/shop/buy-iphone/iphone-11-pro) (64 GB).
-- 8th-generation [iPad](https://apple.com/ipad) (32 GB), with a [Logitech Crayon](https://www.logi.com/crayon).
+- 8th-generation [iPad](https://apple.com/ipad) (32 GB), with a ~~[Logitech Crayon](https://www.logi.com/crayon)~~ Apple Pencil.
 - [Lenovo Yoga Book C930](https://www.lenovo.com/us/en/laptops/yoga/yoga-2-in-1-series/Yoga-Book-C930/p/ZZIWZWBYB1J) dual-screen Windows 2-in-1 w/ Precision Pen.
 - [Acer Chromebook Spin 11](https://www.acer.com/ac/en/US/content/series/acerchromebookspin11) ChromeOS 2-in-1 w/ Digital Pen.
 - Samsung [Galaxy Tab S6 Lite](https://www.samsung.com/us/mobile/tablets/tab-s6-lite/) Android tablet w/ S-Pen.
