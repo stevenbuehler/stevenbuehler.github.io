@@ -2,7 +2,7 @@
 layout: post
 title: My Three Words for 2021.
 author: Steven W. Buehler
-date: 2020-01-01
+date: 2021-01-01
 categories:
     - personal
     - motiviation
