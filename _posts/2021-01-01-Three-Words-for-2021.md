@@ -40,6 +40,6 @@ Summing it up
 =============
 As usual, my three words always seem to form a phrase or sentence every year:
 
-<p align="center"><strong>Creating. Magic. Today.<strong></p>
+<p align="center"><strong>Creating. Magic. Today.</strong></p>
 
 What's yours?
