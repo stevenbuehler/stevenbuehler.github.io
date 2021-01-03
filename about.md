@@ -15,6 +15,8 @@ date: 2020-10-07T18:34:00-04:00
 
 - I am high-functioning autistic (Asperger Disorder, specifically) along with living with Social Anxiety Disorder and Arrested Development Disorder. Around the right people, though, I can be a force to be reckoned with. I'm a kid trapped in the body of a late-forty-something.
 
+- I was bullied daily from the second grade through the end of high school.
+
 - Born and raised in Santa Ana, California; moved to Florida in 2000 for love and marriage (and now I'm stuck here, but it's grown on me).
 
 - First marriage: 9&frac12; years, one adopted son. Divorced. I pay child support but do not have any visitation (my choice; didn't want a child to end up a pawn). The ex and I remain on friendly terms but rarely correspond.
@@ -31,7 +33,7 @@ date: 2020-10-07T18:34:00-04:00
   - [Kennedy Space Center (KSC) Visitor Complex](https://kennedyspacecenter.com) Atlantis Annual Pass
   - (I don't currently have a pass to [Walt Disney World](https://waltdisneyworld.com). My Platinum Pass expired in March during the COVID lockdowns and I didn't renew it before they stopped selling them.)
 
-- You can usually find me at Universal Orlando on Sunday evenings, <u>**in full _Wizarding World_ cosplay**</u> (Yes, I am a grown 48-year-old man with a $125 Ravenclaw robe, Severus Snape's interactive wand, Ravenclaw quidditch cap, and face covering; these are my people). **Fantasy worlds inspire me.**
+- You can usually find me at Universal Orlando on Sunday evenings, **in full _Wizarding World_ cosplay** (Yes, I am a grown 48-year-old man with a $125 Ravenclaw robe, Severus Snape's interactive wand, Ravenclaw quidditch cap, and face covering; these are my people). **Fantasy worlds inspire me.**
 
 - I like to watch rocket launches up close (thus the KSC pass). I've seen two so far. **Space travel and technology inspire me.**
 
