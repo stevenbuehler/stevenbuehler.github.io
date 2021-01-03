@@ -2,7 +2,7 @@
 title: Colophon
 layout: page
 author: Steven Buehler
-date: 2020-12-05
+date: 2021-01-03
 ---
 
 # Colophon
@@ -21,13 +21,13 @@ My two most important tools are [Visual Studio Code](https://code.visualstudio.c
 
 The blog is hosted on [Github Pages](https://pages.github.io), powered by the [Jekyll](https://jekyllrb.com/) blog engine. Pages and posts can be written using [Markdown](https://daringfireball.net/projects/markdown/) (my personal preference), X/HTML, or [Liquid](https://shopify.github.io/liquid/) markup. The theme is more or less stock, with a few customizations to suit my own tastes and format needs.
 
-I've been working to consolidate all of my email, documents, records, &c., into a single place ([iCloud](https://www.icloud.com), as that's the most convenient when working on a Mac, iPhone, or iPad), but I also use ~~[Microsoft 365](https://www.office365.com) and~~ [Google Apps](https://apps.google.com) ~~rather frequently~~ on occasion as the need arises, especially ~~Google Apps Script~~ (I've moved most of that to PowerShell Core on my Mac and Raspberry Pi) for automating a lot of things and creating "front ends" to various APIs that I work with on a regular basis, because I can set hourly triggers to keep the API tokens up to date.
+I've been working to consolidate all of my email, documents, records, &c., into a single place ([iCloud](https://www.icloud.com), as that's the most convenient when working on a Mac, iPhone, or iPad), but I also use [Microsoft 365](https://www.office365.com) and [Google Apps](https://apps.google.com) ~~rather frequently~~ on occasion as the need arises, especially Google Apps Script and [PowerShell Core](https://powershell.org) on my Mac and Raspberry Pi for automating a lot of things and creating "front ends" to various APIs that I work with on a regular basis, because I can set hourly triggers to keep the API tokens up to date.
 
 [Feedly](https://www.feedly.com) in combination with [NetNewsWire](https://ranchero.com/netnewswire/) keeps me up-to-speed with RSS/Atom feed reading.
 
-I engage in social media on [Facebook](https://www.facebook.com/stevenwatsonbuehler), [Twitter](https://twitter.com/gloriousabsenceofskill), [Instagram](https://instagram.com/gloriousabsenceofskill), and [TikTok](https://tiktok.com/@gloriousabsenceofskill), and frequently livestream on Facebook and [Twitch](https://www.twitch.tv/gloriousabsenceofskill). I played with Snapchat for a while but ended up not using it very much so I shut down the account.
+I engage in social media on [Facebook](https://www.facebook.com/stevenwatsonbuehler), [Twitter](https://twitter.com/gloriousabsence), [Instagram](https://instagram.com/gloriousabsenceofskill), and [TikTok](https://tiktok.com/@gloriousabsenceofskill), and frequently livestream on Facebook and [Twitch](https://www.twitch.tv/gloriousabsenceofskill). In 2021 I added Snapchat back (as GloriousAbsence, since it's limited to 15 characters). I also post a lot of video content (archived game streams, mostly) to [YouTube](https://www.youtube.com/channel/UCmugswFkJX7kFvuyqEYA9LA).
 
-I've started using Nvidia's [GeForce NOW](https://www.nvidia.com/en-us/geforce-now/) for gaming on my Mac instead of switching over to my PC.
+I've started using Nvidia's [GeForce NOW](https://www.nvidia.com/en-us/geforce-now/) for gaming on my Mac.
 
 ## Software Tools
 
@@ -50,14 +50,17 @@ My **desktop** consists of:
 - [Raspberry Pi](https://www.raspberrypi.org) 4 Linux server (128 GB SD card).
 - [Canon PIXMA G4210](https://shop.usa.canon.com/shop/en/catalog/pixma-g4210-wireless-wireless-megatank-all-in-one-inkjet-printer) "megatank" color inkjet all-in-one.
 - [HP LaserJet Pro m118dw](https://store.hp.com/us/en/pdp/hp-laserjet-pro-m118dw) black-and-white laser printer.
-- [Asus VS278Q-P](https://www.asus.com/us/Commercial-Monitors/VS278QP/) 27&Prime; 1920&times;1080 LCD display.
+- [Asus VS278Q-P](https://www.asus.com/us/Commercial-Monitors/VS278QP/) 27&Prime; 1920&times;1080 LCD display, now my secondary screen.
+- **NEW:** [Acer KG281K](https://www.acer.com/ac/en/US/content/model/UM.PX1AA.003) 28&Prime; 4K UHD HDR LED display, my primary screen.
 - [Logitech MX Keys](https://www.logitech.com/en-us/products/keyboards/mx-keys-wireless-keyboard.html) wireless multi-device keyboard.
 - [Logitech M720 Triathlon](https://www.logitech.com/en-us/products/mice/m720-triathlon.html) wireless multi-device mouse.
-- [Logitech G533](https://www.logitechg.com/en-us/products/gaming-audio/g533-wireless-gaming-headset.html) Wireless 7.1 DTS Surround Headphone set
+- ~~[Logitech G533](https://www.logitechg.com/g533) Wireless 7.1 DTS Surround Headset.~~
+- [Logitech G635](https://www.logitechg.com/g635) Wired 7.1 DTS Surround Headset.
 
-My **mobile** bag (usually a [LowePro Streamline 150](https://g.co/kgs/7RvMkK) camera bag, but I have other backpacks and such) includes some combination of the following (not all at once):
+My **mobile** bag (usually a [LowePro Streamline 150](https://g.co/kgs/7RvMkK) camera bag, but I have other backpacks and such) includes some combination of the following (not all at once, for obvious reasons):
 
-- ~~[Google Pixel 4 XL](https://store.google.com/us/product/pixel_4)~~ [Apple iPhone 11 Pro Max](https://www.apple.com/shop/buy-iphone/iphone-11-pro) (64 GB).
+- ~~[Google Pixel 4 XL](https://store.google.com/us/product/pixel_4)~~ 
+- [Apple iPhone 11 Pro Max](https://www.apple.com/shop/buy-iphone/iphone-11-pro) (64 GB).
 - 8th-generation [iPad](https://apple.com/ipad) (32 GB), with a ~~[Logitech Crayon](https://www.logi.com/crayon)~~ Apple Pencil.
 - [Lenovo Yoga Book C930](https://www.lenovo.com/us/en/laptops/yoga/yoga-2-in-1-series/Yoga-Book-C930/p/ZZIWZWBYB1J) dual-screen Windows 2-in-1 w/ Precision Pen.
 - [Acer Chromebook Spin 11](https://www.acer.com/ac/en/US/content/series/acerchromebookspin11) ChromeOS 2-in-1 w/ Digital Pen.
@@ -67,6 +70,7 @@ My **mobile** bag (usually a [LowePro Streamline 150](https://g.co/kgs/7RvMkK) c
 - [Nikon CoolPix B500](https://www.nikonusa.com/en/nikon-products/product/compact-digital-cameras/coolpix-b500.html) long-zoom point-and-shoot.
 - A [PNY USB-C storage card reader/USB adapter](https://www.pny.eu/consumer/explore-all-products/readers/941-usb-c-card-reader---usb-adapter).
 - [Apple Earpods](https://www.apple.com/shop/product/MMTN2AM/A/earpods-with-lightning-connector) (both Lightning and &#x215B;&Prime; plug version).
+- Brother [DSmobile 920dw](https://www.brother-usa.com/products/ds920dw) Wireless Duplex Mobile Color Page Scanner.
 
 ...and the **creative** gear:
 
