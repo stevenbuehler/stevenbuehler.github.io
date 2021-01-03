@@ -17,7 +17,7 @@ date: 2020-10-07T18:34:00-04:00
 
 - Born and raised in Santa Ana, California; moved to Florida in 2000 for love and marriage (and now I'm stuck here, but it's grown on me).
 
-- First marriage: 9&frac12; years, one adopted son. divorced. I pay child support but do not have any visitation (my choice; didn't want a child to end up a pawn). The ex and I remain on friendly terms but rarely correspond.
+- First marriage: 9&frac12; years, one adopted son. Divorced. I pay child support but do not have any visitation (my choice; didn't want a child to end up a pawn). The ex and I remain on friendly terms but rarely correspond.
 
 - Second marriage: My junior-high crush. 3&frac12; years until she quite literally and unexpectedly dropped dead. So add "widower" and "very, very lonely" to "divorced".
 
