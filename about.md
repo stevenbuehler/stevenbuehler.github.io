@@ -5,6 +5,8 @@ author: Steven Buehler
 date: 2020-10-07T18:34:00-04:00
 ---
 
+# Random Stuff About Me.
+
 <div style="text-align: center"><img src="/images/portrait.jpg"></div>
 
 > Yep, that's me. You're probably wondering what the hell I'm doing here&hellip;
