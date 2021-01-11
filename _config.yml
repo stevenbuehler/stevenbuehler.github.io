@@ -2,7 +2,7 @@ title: Steven Watson Buehler
 author: Steven Watson Buehler
 email: stevenwbuehler@icloud.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Late-40-something (going on 12). Data, chart, and theme park addict. Ravenclaw. My patronus is a St. Bernard.
+  Late-40-something (going on 12). Data, chart, Harry Potter, and theme park addict.
 show_excerpts: false # set to true to show excerpts on the homepage
 baseurl:
 
@@ -31,6 +31,8 @@ texture:
       url: "/colophon"
     - title: "Personal Informatics"
       url: "/dataprojects"
+    - title: "Contact"
+      url: "/contact"
     - title: "Feed"
       url: "/feed.xml"
   disqus_shortname: steven-w-buehler
@@ -43,6 +45,8 @@ texture:
     twitch: gloriousabsenceofskill
     instagram: gloriousabsenceofskill
     facebook: stevenwatsonbuehler
+    tiktok: gloriousabsenceofskill
+    snapchat: gloriousabsence
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
