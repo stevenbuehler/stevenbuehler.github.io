@@ -2,7 +2,7 @@ title: Steven Watson Buehler
 author: Steven Watson Buehler
 email: stevenwbuehler@icloud.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Late-40-something (going on 12). Data, chart, Harry Potter, and theme park addict.
+  Late-40-something (going on 12). Data, chart, Harry Potter™, and theme park addict.
 show_excerpts: false # set to true to show excerpts on the homepage
 baseurl:
 
@@ -17,7 +17,7 @@ site:
 permalink: /posts/:title/
 texture:
   title: Steven Buehler
-  tagline: Late-40-something (going on 12). Data, chart, and theme park addict. Ravenclaw. My patronus is a St. Bernard.
+  tagline: Late-40-something (going on 12). Data, chart, Harry Potter™, and theme park addict.
   date_format: "%m/%d/%Y"
   style: blue
   showNav: true
