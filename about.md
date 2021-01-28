@@ -7,9 +7,9 @@ date: 2020-10-07T18:34:00-04:00
 
 # Random Stuff About Me.
 
-<div style="text-align: center"><img src="/images/portrait.jpg"></div>
+<div style="text-align: center"><img src="images/portrait.jpg"></div>
 
-> Yep, that's me. You're probably wondering what the hell I'm doing here&hellip;
+Yep, that's me. You're probably wondering what the hell I'm doing here&hellip;
 
 - The day I was born was the same day the Apollo 16 astronauts ended their stay on the surface of the moon. I have their mission patch on my bulletin board for inspiration.
 
