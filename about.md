@@ -35,7 +35,11 @@ Yep, that's me. You're probably wondering what the hell I'm doing here&hellip;
 
 - You can usually find me at Universal Orlando on Sunday evenings, **in full _Wizarding World_ cosplay** (Yes, I am a grown 48-year-old man with a $125 Ravenclaw robe, Severus Snape's interactive wand, Ravenclaw quidditch cap, and face covering; these are my people). **Fantasy worlds inspire me.**
 
-- I like to watch rocket launches up close (thus the KSC pass). I've seen two so far. **Space travel and technology inspire me.**
+- I like to watch rocket launches up close (thus the KSC pass). **Space travel and technology inspire me.**  Launches I've seen so far:
+  - SpaceX CRS-21 (6 Dec 2020, ISS Cargo Resupply)
+  - SpaceX SXM-7 (13 Dec 2020, SiriusXM Satellite)
+  - SpaceX NROL-108 (19 Dec 2020, Nat'l Reconaissance Office)
+  - SpaceX Transporter-1 (24 Jan 2021, "Rideshare" mission)
 
 - **Faith inspires me.** I grew up Catholic, became a "born-again" Christian at the age of 14. My bachelor's degree is in pastoral ministry but life happened and I never got to use it for much of anything. I believe faith needs to be both _intimate_ and _intelligent_. I'm just as comfortable in a Catholic mass as in a pentecostal assembly.
 
