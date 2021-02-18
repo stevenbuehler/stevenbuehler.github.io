@@ -57,7 +57,7 @@ My **desktop** consists of:
 - ~~[Logitech G533](https://www.logitechg.com/g533) Wireless 7.1 DTS Surround Headset.~~
 - [Logitech G635](https://www.logitechg.com/g635) Wired 7.1 DTS Surround Headset.
 
-My **mobile** bag (usually a [LowePro Streamline 150](https://g.co/kgs/7RvMkK) camera bag, but I have other backpacks and such) includes some combination of the following (not all at once, for obvious reasons):
+My **mobile** bag (usually a [LowePro Streamline 250](https://g.co/kgs/7RvMkK) camera bag, but I have other backpacks and such) includes some combination of the following (not all at once, for obvious reasons):
 
 - ~~[Google Pixel 4 XL](https://store.google.com/us/product/pixel_4)~~ 
 - [Apple iPhone 11 Pro Max](https://www.apple.com/shop/buy-iphone/iphone-11-pro) (64 GB).
