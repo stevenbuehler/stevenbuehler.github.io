@@ -14,7 +14,7 @@ First, two things I will <u>not</u> ask for:
 
 Now that we've gotten those items out of the way, you probably want to know more about me. I put together this web site for that purpose, although in a more general way; I had no plans to use these pages as a dating profile when I wrote them. So I keep it simple.
 
-* I'm the kind of fully grown nerd who shows up at The Wizarding World of Harry Potter at Universal Orlando every Sunday evening in full wizarding attire, complete with robe, wand, and Premiere pass. BTW, I'm a Ravenclaw, and I _ROCK_ the robe. I've basically spent enough that I've committed to this as my Halloween costume for at least the next decade.
+* I'm the kind of fully grown nerd who shows up at The Wizarding World of Harry Potter at Universal Orlando every Sunday evening in full wizarding attire, complete with robe, wand, and Premier pass (because *Express after 4!*). BTW, I'm a Ravenclaw, and I _ROCK_ the robe. I've basically spent enough that I've committed to this as my Halloween costume for at least the next decade.
 
 * I'm an Aspie (high-functioning autistic), which means I may do and/or say wierd stuff that doesn't sink in that I have said/done it until I have already fully embarassed myself in doing so. It also means my sense of humor is a little&mdash;how shall I put this&mdash;warped. I was physically and verbally bullied daily from the second grade all the way through high school because of it, so I'm still a kid trapped in a late-40-something body.
 

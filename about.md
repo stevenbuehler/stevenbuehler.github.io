@@ -28,9 +28,9 @@ Yep, that's me. You're probably wondering what the hell I'm doing here&hellip;
 - I work from home full-time in a data analysis/reporting job. My immediate supervisor is in _Ohio._
 
 - I have the following annual passes:
-  - [Universal Orlando Resort](https://universalorlando.com) Platinum Pass (Express after 4! I hate being in lines, especially alone!)
+  - [Universal Orlando Resort](https://universalorlando.com) Premier Pass (Express after 4! I hate being in lines, especially alone!)
   - [Busch Gardens](https://buschgardens.com/tampa) and [SeaWorld Orlando](https://seaworld.com/orlando) combined Gold Pass
-  - [Kennedy Space Center (KSC) Visitor Complex](https://kennedyspacecenter.com) Atlantis Annual Pass
+  - [Kennedy Space Center (KSC) Visitor Complex](https://kennedyspacecenter.com) Atlantis Annual Pass. I go there to watch launches.
   - (I don't currently have a pass to [Walt Disney World](https://waltdisneyworld.com). My Platinum Pass expired in March during the COVID lockdowns and I didn't renew it before they stopped selling them.)
 
 - You can usually find me at Universal Orlando on Sunday evenings, **in full _Wizarding World_ cosplay** (Yes, I am a grown 48-year-old man with a $125 Ravenclaw robe, Severus Snape's interactive wand, Ravenclaw quidditch cap, and face covering; these are my people). **Fantasy worlds inspire me.**
