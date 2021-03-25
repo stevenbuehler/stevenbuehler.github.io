@@ -52,7 +52,6 @@ My **desktop** consists of:
 - [Canon PIXMA G4210](https://shop.usa.canon.com/shop/en/catalog/pixma-g4210-wireless-wireless-megatank-all-in-one-inkjet-printer) "megatank" color inkjet all-in-one.
 - [HP LaserJet Pro m118dw](https://store.hp.com/us/en/pdp/hp-laserjet-pro-m118dw) black-and-white laser printer.
 - [Asus VS278Q-P](https://www.asus.com/us/Commercial-Monitors/VS278QP/) 27&Prime; 1920&times;1080 LCD display, now my secondary screen.
-- **NEW:** [Acer KG281K](https://www.acer.com/ac/en/US/content/model/UM.PX1AA.003) 28&Prime; 4K UHD HDR LED display, my primary screen.
 - [Logitech MX Keys](https://www.logitech.com/en-us/products/keyboards/mx-keys-wireless-keyboard.html) wireless multi-device keyboard.
 - [Logitech M720 Triathlon](https://www.logitech.com/en-us/products/mice/m720-triathlon.html) wireless multi-device mouse.
 - ~~[Logitech G533](https://www.logitechg.com/g533) Wireless 7.1 DTS Surround Headset.~~
@@ -61,13 +60,14 @@ My **desktop** consists of:
 My **mobile** bag (usually a [LowePro Streamline 250](https://g.co/kgs/7RvMkK) camera bag, but I have other backpacks and such) includes some combination of the following (not all at once, for obvious reasons):
 
 - ~~[Google Pixel 4 XL](https://store.google.com/us/product/pixel_4)~~ 
-- [Apple iPhone 11 Pro Max](https://www.apple.com/shop/buy-iphone/iphone-11-pro) (64 GB).
+- [Apple iPhone 11 Pro Max](https://www.apple.com/shop/buy-iphone/iphone-11-pro) (64 GB), with SD Card and USB Camera connector dongles. 
 - 8th-generation [iPad](https://apple.com/ipad) (32 GB), with a ~~[Logitech Crayon](https://www.logi.com/crayon)~~ Apple Pencil.
 - [Lenovo Yoga Book C930](https://www.lenovo.com/us/en/laptops/yoga/yoga-2-in-1-series/Yoga-Book-C930/p/ZZIWZWBYB1J) dual-screen Windows 2-in-1 w/ Precision Pen.
 - [Acer Chromebook Spin 11](https://www.acer.com/ac/en/US/content/series/acerchromebookspin11) ChromeOS 2-in-1 w/ Digital Pen.
-- Samsung [Galaxy Tab S6 Lite](https://www.samsung.com/us/mobile/tablets/tab-s6-lite/) Android tablet w/ S-Pen.
+- Samsung [Galaxy Tab S6 Lite](https://www.samsung.com/us/mobile/tablets/tab-s6-lite/) Android tablet w/ S-Pen. I usually use the digital pen from the Chromebook with this, though, because the tiny S-Pen feels like writing with a twig.
 - [Anker PowerCore Metro Essential](https://www.anker.com/products/variant/powercore-essential-20000/A1268011) 20,000-mAh power bank.
-- [Rylo](https://www.rylo.com) 360&deg; video camera (at least while the software still works).
+- ~~[Rylo](https://www.rylo.com) 360&deg; video camera (at least while the software still works&mdash;VSCO bought the company and abandoned the product).~~
+- [Insta360 ONE R Twin Edition](https://www.insta360.com/product/insta360-oner_twin-edition/) modular video camera. I can switch between a 4K action cam or a 5.7K 360° module as desired. It also works as a webcam and streaming cam in a pinch.
 - [Nikon CoolPix B500](https://www.nikonusa.com/en/nikon-products/product/compact-digital-cameras/coolpix-b500.html) long-zoom point-and-shoot.
 - A [PNY USB-C storage card reader/USB adapter](https://www.pny.eu/consumer/explore-all-products/readers/941-usb-c-card-reader---usb-adapter).
 - [Apple Earpods](https://www.apple.com/shop/product/MMTN2AM/A/earpods-with-lightning-connector) (both Lightning and &#x215B;&Prime; plug version).
