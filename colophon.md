@@ -67,10 +67,10 @@ My **mobile** bag (usually a [LowePro Streamline 250](https://g.co/kgs/7RvMkK) c
 - Samsung [Galaxy Tab S6 Lite](https://www.samsung.com/us/mobile/tablets/tab-s6-lite/) Android tablet w/ S-Pen. I usually use the digital pen from the Chromebook with this, though, because the tiny S-Pen feels like writing with a twig.
 - [Anker PowerCore Metro Essential](https://www.anker.com/products/variant/powercore-essential-20000/A1268011) 20,000-mAh power bank.
 - ~~[Rylo](https://www.rylo.com) 360&deg; video camera (at least while the software still works&mdash;VSCO bought the company and abandoned the product).~~
-- [Insta360 ONE R Twin Edition](https://www.insta360.com/product/insta360-oner_twin-edition/) modular video camera. I can switch between a 4K action cam or a 5.7K 360° module as desired. It also works as a webcam and streaming cam in a pinch.
+- [Insta360 ONE R Twin Edition](https://www.insta360.com/product/insta360-oner_twin-edition/) modular video camera. I can switch between a 4K wide-angle action cam or a 5.7K 360° module as desired. It also works as a webcam and streaming cam in a pinch.
 - [Nikon CoolPix B500](https://www.nikonusa.com/en/nikon-products/product/compact-digital-cameras/coolpix-b500.html) long-zoom point-and-shoot.
 - A [PNY USB-C storage card reader/USB adapter](https://www.pny.eu/consumer/explore-all-products/readers/941-usb-c-card-reader---usb-adapter).
-- [Apple Earpods](https://www.apple.com/shop/product/MMTN2AM/A/earpods-with-lightning-connector) (both Lightning and &#x215B;&Prime; plug version).
+- [Apple Earpods](https://www.apple.com/shop/product/MMTN2AM/A/earpods-with-lightning-connector) (both Lightning and &#x215B;&Prime; plug version). I know Airpods are great, but it's something tiny that I would be _guaranteed_ to lose within ten minutes of buying them.
 - Brother [DSmobile 920dw](https://www.brother-usa.com/products/ds920dw) Wireless Duplex Mobile Color Page Scanner.
 
 ...and the **creative** gear:
