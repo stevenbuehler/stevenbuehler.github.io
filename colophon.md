@@ -51,7 +51,7 @@ My **desktop** consists of:
 - [Raspberry Pi](https://www.raspberrypi.org) 4 Linux server (128 GB SD card).
 - [Canon PIXMA G4210](https://shop.usa.canon.com/shop/en/catalog/pixma-g4210-wireless-wireless-megatank-all-in-one-inkjet-printer) "megatank" color inkjet all-in-one.
 - [HP LaserJet Pro m118dw](https://store.hp.com/us/en/pdp/hp-laserjet-pro-m118dw) black-and-white laser printer.
-- [Asus VS278Q-P](https://www.asus.com/us/Commercial-Monitors/VS278QP/) 27&Prime; 1920&times;1080 LCD display, now my secondary screen.
+- [Asus VS278Q-P](https://www.asus.com/us/Commercial-Monitors/VS278QP/) 27&Prime; 1920&times;1080 LCD display. I had a second 4K screen, but it started acting up and I found that macOS required more resources to drive it, so I disposed of it and stick with the single FHD screen and my iPad as the second screen when I need it.
 - [Logitech MX Keys](https://www.logitech.com/en-us/products/keyboards/mx-keys-wireless-keyboard.html) wireless multi-device keyboard.
 - [Logitech M720 Triathlon](https://www.logitech.com/en-us/products/mice/m720-triathlon.html) wireless multi-device mouse.
 - ~~[Logitech G533](https://www.logitechg.com/g533) Wireless 7.1 DTS Surround Headset.~~
