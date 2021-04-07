@@ -25,7 +25,7 @@ I've been working to consolidate all of my email, documents, records, &c., into 
 
 [Feedly](https://www.feedly.com) in combination with [NetNewsWire](https://ranchero.com/netnewswire/) keeps me up-to-speed with RSS/Atom feed reading.
 
-I engage in social media on [Facebook](https://www.facebook.com/stevenwatsonbuehler), [Twitter](https://twitter.com/gloriousabsence), [Instagram](https://instagram.com/gloriousabsenceofskill), and [TikTok](https://tiktok.com/@gloriousabsenceofskill), and frequently livestream on Facebook and [Twitch](https://www.twitch.tv/gloriousabsenceofskill). In 2021 I added Snapchat back (as GloriousAbsence, since it's limited to 15 characters). I also post a lot of video content (archived game streams, mostly) to [YouTube](https://www.youtube.com/channel/UCmugswFkJX7kFvuyqEYA9LA).
+I engage in social media on [Facebook](https://www.facebook.com/stevenwatsonbuehler), [Twitter](https://twitter.com/gloriousabsence), [Instagram](https://instagram.com/gloriousabsenceofskill), ~~and TikTok~~, and frequently livestream on Facebook and [Twitch](https://www.twitch.tv/gloriousabsenceofskill). In 2021 I added Snapchat back (as GloriousAbsence, since it's limited to 15 characters). I also post a lot of video content (archived game streams, mostly) to [YouTube](https://www.youtube.com/channel/UCmugswFkJX7kFvuyqEYA9LA).
 
 I've started using Nvidia's [GeForce NOW](https://www.nvidia.com/en-us/geforce-now/) for gaming on my Mac.
 

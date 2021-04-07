@@ -35,7 +35,7 @@ I have the following annual passes:
  - [Kennedy Space Center (KSC) Visitor Complex](https://kennedyspacecenter.com) Atlantis Annual Pass. I go there to watch launches.
  - (I don't currently have a pass to [Walt Disney World](https://waltdisneyworld.com). My Platinum Pass expired in March during the COVID lockdowns and I didn't renew it before they stopped selling them.)
 
-You can usually find me at Universal Orlando on Sunday evenings, **in full _Wizarding World_ cosplay** (Yes, I am a grown 48-year-old man with a $125 Ravenclaw robe, Severus Snape's interactive wand, Ravenclaw quidditch cap, and face covering; these are my people). **Fantasy worlds inspire me.**
+You can usually find me at Universal Orlando on Sunday evenings, **in full _Wizarding World_ cosplay** (Yes, I am a grown 48-year-old man with a $125 Ravenclaw robe, Severus Snape's interactive wand, Ravenclaw cap, and face covering; these are my people). **Fantasy worlds inspire me.**
 
 I like to watch rocket launches up close (thus the KSC pass). **Space travel and technology inspire me.**  Launches I've seen so far:
  - SpaceX CRS-21 (6 Dec 2020, ISS Cargo Resupply)
